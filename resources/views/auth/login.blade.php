@@ -1,8 +1,7 @@
 
-@extends('layouts.app')
 
-@section('content')
-<div class="container">
+
+{{--<div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -70,11 +69,9 @@
             </div>
         </div>
     </div>
-</div>
-@endsection
+</div>--}}
 
-
- {{--   <!DOCTYPE html>
+    <!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8">
@@ -171,7 +168,7 @@
                 @endif
             </p>
             <p class="mb-0">
-                <a href="register.html" class="text-center">Register a new membership</a>
+                <a href="/register" class="text-center">Register a new membership</a>
             </p>
         </div>
         <!-- /.login-card-body -->
@@ -189,4 +186,5 @@
 </body>
 </html>
 
---}}
+
+
