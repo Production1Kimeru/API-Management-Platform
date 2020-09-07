@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef448e4-4f17-4a25-ae44-015845c1b7f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/img/brand/LOGO.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
@@ -162,6 +163,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kimeru\Documents\API-Management-Platform\public\img\brand" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kimeru\Documents\API-Management-Platform\resources\views\layouts" />
     </key>
@@ -180,7 +184,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599138206196</updated>
-      <workItem from="1599138207981" duration="8730000" />
+      <workItem from="1599138207981" duration="9330000" />
     </task>
     <servers />
   </component>

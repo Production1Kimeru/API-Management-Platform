@@ -100,7 +100,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <a href=""><b>Admin</b>LTE</a>
+        <img class="col-12" src="/img/brand/LOGO.jpg">
     </div>
     <!-- /.login-logo -->
     <div class="card">
@@ -158,7 +158,7 @@
 
             <!-- /.social-auth-links -->
 
-            <p class="mb-1">
+            <p class="mb-1" >
 
 
                 @if (Route::has('password.request'))
