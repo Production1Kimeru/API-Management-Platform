@@ -18,7 +18,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 </head>
-<body class="hold-transition sidebar-mini">
+<body class="hold-transition sidebar-mini sidebar-closed sidebar-collapse">
 <div class="wrapper">
 
     <!-- Navbar -->
@@ -29,14 +29,11 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <a class="nav-link" data-widget="pushmenu" href="#" role="button"><i class="fas fa-bars"></i></a>
             </li>
             <li class="nav-item d-none d-sm-inline-block">
-                <a href="index3.html" class="nav-link">Home</a>
-            </li>
-            <li class="nav-item d-none d-sm-inline-block">
-                <a href="#" class="nav-link">Contact</a>
+                <a href="/overview" class="nav-link">Overview</a>
             </li>
         </ul>
 
-        <!-- SEARCH FORM -->
+{{--        <!-- SEARCH FORM -->
         <form class="form-inline ml-3">
             <div class="input-group input-group-sm">
                 <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search">
@@ -46,10 +43,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
                     </button>
                 </div>
             </div>
-        </form>
+        </form>--}}
 
         <!-- Right navbar links -->
-        <ul class="navbar-nav ml-auto">
+        {{--<ul class="navbar-nav ml-auto">
             <!-- Messages Dropdown Menu -->
             <li class="nav-item dropdown">
                 <a class="nav-link" data-toggle="dropdown" href="#">
@@ -139,7 +136,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 <a class="nav-link" data-widget="control-sidebar" data-slide="true" href="#" role="button"><i
                         class="fas fa-th-large"></i></a>
             </li>
-        </ul>
+        </ul>--}}
     </nav>
     <!-- /.navbar -->
 
@@ -171,7 +168,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                          with font-awesome or any other icon font library -->
                     <li class="nav-item has-treeview">
                         <a href="#" class="nav-link">
-                            <i class="nav-icon fas fa-circle"></i>
+                            <i class="nav-icon fas fa-flag"></i>
                             <p>
                                 Overview
                                 <i class="right fas fa-angle-left"></i>
