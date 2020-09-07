@@ -177,7 +177,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <ul class="nav nav-treeview">
                             <li class="nav-item has-treeview">
                                 <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                    <i class="fas fa-universal-access nav-icon"></i>
                                     <p>
                                         Universal
                                         <i class="right fas fa-angle-left"></i>
@@ -202,7 +202,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <ul class="nav nav-treeview">
                             <li class="nav-item has-treeview">
                                 <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                    <i class="far fa-newspaper nav-icon"></i>
                                     <p>
                                         News
                                         <i class="right fas fa-angle-left"></i>
@@ -221,7 +221,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <ul class="nav nav-treeview">
                             <li class="nav-item has-treeview">
                                 <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                    <i class="fas fa-random nav-icon"></i>
                                     <p>
                                         Random
                                         <i class="right fas fa-angle-left"></i>
@@ -240,7 +240,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                         <ul class="nav nav-treeview">
                             <li class="nav-item has-treeview">
                                 <a href="#" class="nav-link">
-                                    <i class="far fa-circle nav-icon"></i>
+                                    <i class="far fa-building nav-icon"></i>
                                     <p>
                                         Specific Companies
                                         <i class="right fas fa-angle-left"></i>
