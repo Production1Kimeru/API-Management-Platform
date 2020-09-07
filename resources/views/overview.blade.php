@@ -29,7 +29,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3">
-                    <a href="#">
+                    <a href="/overview/accuweather">
                     <div class="card card-primary card-outline" >
                         <h5 class="card-header">Accu Weather</h5>
                         <div class="card-body">
