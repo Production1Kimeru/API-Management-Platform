@@ -20,4 +20,5 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/overview', 'OverviewController@index')->name('overview');
+Route::get('/overview/accuweather', 'AccuweatherController@index')->name('accuweather');
 
