@@ -100,7 +100,7 @@
 <body class="hold-transition login-page">
 <div class="login-box">
     <div class="login-logo">
-        <img class="col-12" src="/img/brand/LOGO.jpg">
+        <img class="col-12" src="{{asset('/img/brand/LOGO.jpg')}}">
     </div>
     <!-- /.login-logo -->
     <div class="card">

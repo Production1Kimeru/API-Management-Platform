@@ -105,7 +105,7 @@
 <body class="hold-transition register-page">
 <div class="register-box">
     <div class="register-logo">
-        <img class="col-12" src="/img/brand/LOGO.jpg">
+        <img class="col-12" src="{{asset('/img/brand/LOGO.jpg')}}">
     </div>
 
     <div class="card">
