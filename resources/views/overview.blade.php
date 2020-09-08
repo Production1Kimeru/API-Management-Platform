@@ -68,7 +68,7 @@
                         <!-- textarea -->
                         <div class="form-group">
                             <label>Description API</label>
-                            <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                            <textarea class="form-control" rows="3" placeholder="Enter Description..."></textarea>
                         </div>
                     </div>
                     <div class="modal-footer justify-content-between">
@@ -124,7 +124,7 @@
                         <!-- textarea -->
                         <div class="form-group">
                             <label>Description API</label>
-                            <textarea class="form-control" rows="3" placeholder="Enter ..."></textarea>
+                            <textarea class="form-control" rows="3" placeholder="Enter Description..."></textarea>
                         </div>
                     </div>
                     <div class="modal-footer justify-content-between">

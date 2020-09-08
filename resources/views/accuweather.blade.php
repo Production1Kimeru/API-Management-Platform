@@ -10,7 +10,6 @@
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <button type="button" class="btn btn-success btn-sm">Add</button>
                         <button type="button" class="btn btn-warning btn-sm ml-2">Edit</button>
-                        <button type="button" class="btn btn-danger btn-sm ml-2">Remove</button>
                     </div>
                 </div>
                 <!-- /.col -->
@@ -69,7 +68,6 @@
                                     <td><span class="badge bg-success">Online</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -85,7 +83,6 @@
                                     <td><span class="badge bg-success">Online</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -101,7 +98,6 @@
                                     <td><span class="badge bg-danger">Offline</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -117,7 +113,6 @@
                                     <td><span class="badge bg-secondary">Not Synced</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -133,7 +128,6 @@
                                     <td><span class="badge bg-warning">Something wrong</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -149,7 +143,6 @@
                                     <td><span class="badge bg-success">Online</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -165,7 +158,6 @@
                                     <td><span class="badge bg-success">Online</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -180,7 +172,6 @@
                                     <td><span class="badge bg-warning">Something wrong</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -196,7 +187,6 @@
                                     <td><span class="badge bg-danger">Offline</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -212,7 +202,6 @@
                                     <td><span class="badge bg-info">Paused</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-play"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
@@ -228,7 +217,6 @@
                                     <td><span class="badge bg-info">Paused</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-play"></i></a>
-                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
                                         <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
