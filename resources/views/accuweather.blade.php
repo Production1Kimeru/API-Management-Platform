@@ -125,7 +125,6 @@
 
                                 </tr>
                                 <tr>
-                                    <a href="#"><i class="fas fa-pause"></i></a>
                                     <td>5</td>
                                     <td>Leuven</td>
                                     <td>16-01-2018</td>
@@ -220,20 +219,20 @@
                                     </td>
 
                                 </tr>
-                                <td>11</td>
-                                <td>St.-Vith</td>
-                                <td>29-01-2016</td>
-                                <td>3</td>
-                                <td>vrij,zat,zon</td>
-                                <td><span class="badge bg-info">Paused</span></td>
-                                <td>
-                                    <a href="#"><i class="fas fa-play"></i></a>
-                                    <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
-                                    <a href="#"><i class="fas fa-book ml-2"></i></a>
-                                    <a href="#"><i class="fas fa-sync ml-2"></i></a>
-                                    <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
-                                </td>
-
+                                <tr>
+                                    <td>11</td>
+                                    <td>St.-Vith</td>
+                                    <td>29-01-2016</td>
+                                    <td>3</td>
+                                    <td>vrij,zat,zon</td>
+                                    <td><span class="badge bg-info">Paused</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-play"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
                                 </tr>
                                 </tbody>
                             </table>
