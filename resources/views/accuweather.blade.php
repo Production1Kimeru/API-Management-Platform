@@ -66,10 +66,10 @@
                                     <td>ma,di,woe</td>
                                     <td><span class="tag tag-success">Online</span></td>
                                     <td>
-                                        <i class="far fa-calendar-alt ml-2"></i>
-                                        <i class="fas fa-book ml-2"></i>
-                                        <i class="fas fa-sync ml-2"></i>
-                                        <i class="fas fa-trash-alt ml-2"></i>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
                                     </td>
 
                                 </tr>
@@ -81,10 +81,10 @@
                                     <td>ma,vrij</td>
                                     <td><span class="tag tag-success">Online</span></td>
                                     <td>
-                                        <i class="far fa-calendar-alt ml-2"></i>
-                                        <i class="fas fa-book ml-2"></i>
-                                        <i class="fas fa-sync ml-2"></i>
-                                        <i class="fas fa-trash-alt ml-2"></i>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
                                     </td>
 
                                 </tr>

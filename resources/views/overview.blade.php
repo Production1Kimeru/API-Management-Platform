@@ -10,7 +10,6 @@
                     <button type="button" class="btn btn-success btn-sm">Add</button>
                     <button type="button" class="btn btn-warning btn-sm">Edit</button>
                     <button type="button" class="btn btn-danger btn-sm">Remove</button>
-
                 </div>
                 <!-- /.col -->
                 <div class="col-sm-6">
@@ -30,15 +29,15 @@
             <div class="row">
                 <div class="col-lg-3">
                     <a href="/overview/accuweather">
-                    <div class="card card-primary card-outline" >
-                        <h5 class="card-header">Accu Weather</h5>
-                        <div class="card-body">
-                            <p class="card-text">
-                                API to give weather expectations.
-                            </p>
-                            <p href="#" class="card-text text-right" style="color: grey;">Added 19/07/2020</p>
+                        <div class="card card-primary card-outline" >
+                            <h5 class="card-header">Accu Weather</h5>
+                            <div class="card-body">
+                                <p class="card-text">
+                                    API to give weather expectations.
+                                </p>
+                                <p href="#" class="card-text text-right" style="color: grey;">Added 19/07/2020</p>
+                            </div>
                         </div>
-                    </div>
                     </a>
                     <a href="#">
                         <div class="card card-primary card-outline" >
@@ -51,7 +50,6 @@
                             </div>
                         </div>
                     </a>
-
                 </div>
                 <!-- /.col-md-3 -->
                 <div class="col-lg-3">
@@ -66,9 +64,6 @@
                             </div>
                         </div>
                     </a>
-
-
-
                 </div>
                 <!-- /.col-md-3 -->
                 <div class="col-lg-3">
@@ -77,7 +72,7 @@
                             <h5 class="card-header">Random Jokes</h5>
                             <div class="card-body">
                                 <p class="card-text">
-                                    API thet generates random jokes.
+                                    API that generates random jokes.
                                 </p>
                                 <p href="#" class="card-text text-right" style="color: grey;">Added 19/07/2020</p>
                             </div>

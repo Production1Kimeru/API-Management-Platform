@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2ef448e4-4f17-4a25-ae44-015845c1b7f1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/accuweather.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/accuweather.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/overview.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/overview.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +183,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599138206196</updated>
-      <workItem from="1599138207981" duration="20597000" />
+      <workItem from="1599138207981" duration="22814000" />
     </task>
     <servers />
   </component>
@@ -200,32 +202,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1599138918868">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1599490150097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599138918868" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1599138918868">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599490150097" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1599490150097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599138918868" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1599138918867">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599490150097" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1599490150097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599138918867" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1599138918868">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599490150097" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1599490150097">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599138918868" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/overview.blade.php</url>
-          <line>30</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1599490150097" />
   </component>
 </project>
