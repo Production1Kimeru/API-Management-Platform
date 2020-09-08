@@ -10,7 +10,7 @@
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#modal-add">Add</button>
                         <button type="button" class="btn btn-warning btn-sm ml-2" data-toggle="modal" data-target="#modal-edit">Edit</button>
-                        <button type="button" class="btn btn-danger btn-sm ml-2">Remove</button>
+                        <button type="button" class="btn btn-danger btn-sm ml-2" data-toggle="modal" data-target="#modal-remove">Remove</button>
                     </div>
                 </div>
                 <!-- /.col -->
@@ -137,7 +137,39 @@
             <!-- /.modal-dialog -->
         </div>
         <!-- /.Modal Edit -->
+        <!-- Modal Remove -->
+        <div class="modal fade" id="modal-remove">
+            <div class="modal-dialog modal-lg">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h4 class="modal-title">Remove API</h4>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="form-group">
+                            <label>Select API</label>
+                            <select multiple class="form-control">
+                                <option>Accu Weather</option>
+                                <option>Rails</option>
+                                <option>De Tijd</option>
+                                <option>Random Jokes</option>
+                                <option>Appointment Dentist</option>
+                            </select>
+                        </div>
 
+                    </div>
+                    <div class="modal-footer justify-content-between">
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        <button type="button" class="btn btn-danger">Remove</button>
+                    </div>
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+        <!-- /.Modal Remove -->
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3">
