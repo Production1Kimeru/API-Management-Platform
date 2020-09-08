@@ -7,9 +7,11 @@
             <div class="row mb-2">
                 <div class="col-sm-6">
                     <h1 class="m-0 text-dark">API Overview</h1>
-                    <button type="button" class="btn btn-success btn-sm">Add</button>
-                    <button type="button" class="btn btn-warning btn-sm">Edit</button>
-                    <button type="button" class="btn btn-danger btn-sm">Remove</button>
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" class="btn btn-success btn-sm">Add</button>
+                        <button type="button" class="btn btn-warning btn-sm ml-2">Edit</button>
+                        <button type="button" class="btn btn-danger btn-sm ml-2">Remove</button>
+                    </div>
                 </div>
                 <!-- /.col -->
                 <div class="col-sm-6">

@@ -315,7 +315,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
                 @csrf
             </form>        </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2020 <a href="https://kimeru.be">Kimeru.be</a>.</strong> All rights reserved.
+        <strong>Copyright &copy; 2020 <a href="https://kimeru.be">Kimeru.be</a></strong> All rights reserved.
     </footer>
 </div>
 <!-- ./wrapper -->

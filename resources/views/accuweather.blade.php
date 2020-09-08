@@ -9,8 +9,8 @@
                     <h1 class="m-0 text-dark">Accu Weather API</h1>
                     <div class="btn-group" role="group" aria-label="Basic example">
                         <button type="button" class="btn btn-success btn-sm">Add</button>
-                        <button type="button" class="btn btn-warning btn-sm">Edit</button>
-                        <button type="button" class="btn btn-danger btn-sm">Remove</button>
+                        <button type="button" class="btn btn-warning btn-sm ml-2">Edit</button>
+                        <button type="button" class="btn btn-danger btn-sm ml-2">Remove</button>
                     </div>
                 </div>
                 <!-- /.col -->
