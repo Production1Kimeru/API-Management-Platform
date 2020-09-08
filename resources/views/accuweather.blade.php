@@ -44,8 +44,8 @@
                             </div>
                         </div>
                         <!-- /.card-header -->
-                        <div class="card-body table-responsive p-0">
-                            <table class="table table-hover text-nowrap">
+                        <div class="card-body table-responsive p-0" style="height: 65vh;">
+                            <table class="table table-head-fixed text-nowrap">
                                 <thead>
                                 <tr>
                                     <th>ID</th>
@@ -64,8 +64,9 @@
                                     <td>11-7-2020</td>
                                     <td>5</td>
                                     <td>ma,di,woe</td>
-                                    <td><span class="tag tag-success">Online</span></td>
+                                    <td><span class="badge bg-success">Online</span></td>
                                     <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
                                         <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
@@ -79,8 +80,9 @@
                                     <td>30-4-2020</td>
                                     <td>7</td>
                                     <td>ma,vrij</td>
-                                    <td><span class="tag tag-success">Online</span></td>
+                                    <td><span class="badge bg-success">Online</span></td>
                                     <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
                                         <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
                                         <a href="#"><i class="fas fa-sync ml-2"></i></a>
@@ -88,7 +90,149 @@
                                     </td>
 
                                 </tr>
+                                <tr>
+                                    <td>3</td>
+                                    <td>Brugge</td>
+                                    <td>02-01-2020</td>
+                                    <td>2</td>
+                                    <td>ma,woe</td>
+                                    <td><span class="badge bg-danger">Offline</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
 
+                                </tr>
+                                <tr>
+                                    <td>4</td>
+                                    <td>Brussel</td>
+                                    <td>23-11-2019</td>
+                                    <td>9</td>
+                                    <td>di,woe</td>
+                                    <td><span class="badge bg-secondary">Not Synced</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <a href="#"><i class="fas fa-pause"></i></a>
+                                    <td>5</td>
+                                    <td>Leuven</td>
+                                    <td>16-01-2018</td>
+                                    <td>5</td>
+                                    <td>vrij,zat,zon</td>
+                                    <td><span class="badge bg-warning">Something wrong</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>6</td>
+                                    <td>Hasselt</td>
+                                    <td>29-06-2018</td>
+                                    <td>2</td>
+                                    <td>vrij,zon</td>
+                                    <td><span class="badge bg-success">Online</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>7</td>
+                                    <td>Bergen-op-zoom</td>
+                                    <td>12-12-2017</td>
+                                    <td>10</td>
+                                    <td>woe,zat,zon</td>
+                                    <td><span class="badge bg-success">Online</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>8</td>
+                                    <td>Luik</td>
+                                    <td>23-02-2017</td>
+                                    <td>4</td>
+                                    <td>di,do,zon</td>
+                                    <td><span class="badge bg-warning">Something wrong</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>9</td>
+                                    <td>Henegouwen</td>
+                                    <td>23-10-2017</td>
+                                    <td>8</td>
+                                    <td>All day</td>
+                                    <td><span class="badge bg-danger">Offline</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-pause"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <tr>
+                                    <td>10</td>
+                                    <td>Ieper</td>
+                                    <td>31-01-2016</td>
+                                    <td>1</td>
+                                    <td>vrij,zat,zon</td>
+                                    <td><span class="badge bg-info">Paused</span></td>
+                                    <td>
+                                        <a href="#"><i class="fas fa-play"></i></a>
+                                        <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                        <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                    </td>
+
+                                </tr>
+                                <td>11</td>
+                                <td>St.-Vith</td>
+                                <td>29-01-2016</td>
+                                <td>3</td>
+                                <td>vrij,zat,zon</td>
+                                <td><span class="badge bg-info">Paused</span></td>
+                                <td>
+                                    <a href="#"><i class="fas fa-play"></i></a>
+                                    <a href="#"><i class="far fa-calendar-alt ml-2"></i></a>
+                                    <a href="#"><i class="fas fa-book ml-2"></i></a>
+                                    <a href="#"><i class="fas fa-sync ml-2"></i></a>
+                                    <a href="#"><i class="fas fa-trash-alt ml-2"></i></a>
+                                </td>
+
+                                </tr>
                                 </tbody>
                             </table>
                         </div>
