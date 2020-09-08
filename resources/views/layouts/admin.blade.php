@@ -39,6 +39,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('adminlte/plugins/select2/css/select2.css')}}">
     <link rel="stylesheet" href="{{asset('adminlte/plugins/select2/css/select2.min.css')}}">
+
+
+
 </head>
 <body class="hold-transition sidebar-mini sidebar-closed sidebar-collapse">
 <div class="wrapper">
@@ -334,5 +337,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <script src="{{asset('adminlte/plugins/select2/js/select2.js')}}"></script>
 {{--<script src="{{asset('adminlte/plugins/select2/js/select2.full.min.js')}}"></script>
 <script src="{{asset('adminlte/plugins/select2/js/select2.full.js')}}"></script>--}}
+
+
+
 </body>
 </html>
