@@ -7,10 +7,11 @@
             <div class="row mb-2">
                 <div class="col-sm-6">
                     <h1 class="m-0 text-dark">Accu Weather API</h1>
-                    <button type="button" class="btn btn-success btn-sm">Add</button>
-                    <button type="button" class="btn btn-warning btn-sm">Edit</button>
-                    <button type="button" class="btn btn-danger btn-sm">Remove</button>
-
+                    <div class="btn-group" role="group" aria-label="Basic example">
+                        <button type="button" class="btn btn-success btn-sm">Add</button>
+                        <button type="button" class="btn btn-warning btn-sm">Edit</button>
+                        <button type="button" class="btn btn-danger btn-sm">Remove</button>
+                    </div>
                 </div>
                 <!-- /.col -->
                 <div class="col-sm-6">
@@ -33,10 +34,11 @@
                     <div class="card">
                         <div class="card-header">
                             <h3 class="card-title">Created Custom API'S</h3>
+
+
                             <div class="card-tools">
                                 <div class="input-group input-group-sm" style="width: 150px;">
                                     <input type="text" name="table_search" class="form-control float-right" placeholder="Search">
-
                                     <div class="input-group-append">
                                         <button type="submit" class="btn btn-default"><i class="fas fa-search"></i></button>
                                     </div>
