@@ -39,8 +39,9 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
     <link rel="stylesheet" href="{{asset('adminlte/plugins/select2/css/select2.css')}}">
     <link rel="stylesheet" href="{{asset('adminlte/plugins/select2/css/select2.min.css')}}">
-
-
+    <!-- TimePicker -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.0-alpha14/js/tempusdominus-bootstrap-4.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tempusdominus-bootstrap-4/5.0.0-alpha14/css/tempusdominus-bootstrap-4.min.css" />
 
 
 
@@ -340,7 +341,18 @@ scratch. This page gets rid of all links and provides the needed markup only.
 {{--<script src="{{asset('adminlte/plugins/select2/js/select2.full.min.js')}}"></script>
 <script src="{{asset('adminlte/plugins/select2/js/select2.full.js')}}"></script>--}}
 
+<!-- TimePicker -->
+<script type="text/javascript" src="{{asset('adminlte/plugins/jquery/jquery.js')}}"></script>
+<script type="text/javascript" src="{{asset('adminlte/plugins/moment/moment-with-locales.js')}}"></script>
+<script type="text/javascript" src="{{asset('adminlte/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js')}}"></script>
 
+<script type="text/javascript">
+    $(function () {
+        $('#datetimepicker3').datetimepicker({
+            format: 'LT'
+        });
+    });
+</script>
 
 
 </body>

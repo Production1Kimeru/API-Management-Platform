@@ -121,9 +121,19 @@
                                 <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox1" value="Monday">
-                                        <label for="weekdaysCheckbox1" class="custom-control-label">Monday</label>
 
-                                        
+
+
+                                                <div class="form-group">
+                                                    <div class="input-group date" id="datetimepicker3" data-target-input="nearest" style="width: 230px;">
+                                                        <label for="weekdaysCheckbox1" class="custom-control-label mr-4">Monday</label>
+                                                        <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker3" style="height: 30px;"/>
+                                                        <div class="input-group-append" data-target="#datetimepicker3" data-toggle="datetimepicker">
+                                                            <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
 
                                     </div>
 
