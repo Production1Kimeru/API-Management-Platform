@@ -120,49 +120,92 @@
                             <div class="row">
                                 <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox1" value="Monday">
-
-
-
                                                 <div class="form-group">
-                                                    <div class="input-group date" id="datetimepicker3" data-target-input="nearest" style="width: 230px;">
+                                                    <div class="input-group date" id="datetimepicker1" data-target-input="nearest" style="width: 230px;">
+                                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox1" value="Monday">
                                                         <label for="weekdaysCheckbox1" class="custom-control-label mr-4">Monday</label>
-                                                        <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker3" style="height: 30px;"/>
-                                                        <div class="input-group-append" data-target="#datetimepicker3" data-toggle="datetimepicker">
+                                                        <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker1" style="height: 30px;"/>
+                                                        <div class="input-group-append" data-target="#datetimepicker1" data-toggle="datetimepicker">
                                                             <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                                         </div>
                                                     </div>
                                                 </div>
-
-
                                     </div>
 
-                                    <!-- /.input group -->
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox2" value="Thuesday">
-                                        <label for="weekdaysCheckbox2" class="custom-control-label">Thuesday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker2" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox2" value="Tuesday">
+                                                <label for="weekdaysCheckbox2" class="custom-control-label mr-4">Tuesday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker2" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker2" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox3" value="Wednesday">
-                                        <label for="weekdaysCheckbox3" class="custom-control-label">Wednesday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker3" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox3" value="Wednesday">
+                                                <label for="weekdaysCheckbox3" class="custom-control-label mr-4">Wednesday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker3" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker3" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox4" value="Thursday">
-                                        <label for="weekdaysCheckbox4" class="custom-control-label">Thursday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker4" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox4" value="Thursday">
+                                                <label for="weekdaysCheckbox4" class="custom-control-label mr-4">Thursday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker4" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker4" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
+
                                 <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox5" value="Friday">
-                                        <label for="weekdaysCheckbox5" class="custom-control-label">Friday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker5" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox5" value="Friday">
+                                                <label for="weekdaysCheckbox5" class="custom-control-label mr-4">Friday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker5" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker5" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox6" value="Saturday">
-                                        <label for="weekdaysCheckbox6" class="custom-control-label">Saturday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker6" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox6" value="Saturday">
+                                                <label for="weekdaysCheckbox6" class="custom-control-label mr-4">Saturday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker6" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker6" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                     <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox7" value="Sunday">
-                                        <label for="weekdaysCheckbox7" class="custom-control-label">Sunday</label>
+                                        <div class="form-group">
+                                            <div class="input-group date" id="datetimepicker7" data-target-input="nearest" style="width: 230px;">
+                                                <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox7" value="Sunday">
+                                                <label for="weekdaysCheckbox7" class="custom-control-label mr-4">Sunday</label>
+                                                <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker7" style="height: 30px;"/>
+                                                <div class="input-group-append" data-target="#datetimepicker7" data-toggle="datetimepicker">
+                                                    <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
 

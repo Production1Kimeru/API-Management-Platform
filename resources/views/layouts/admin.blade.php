@@ -348,7 +348,37 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 <script type="text/javascript">
     $(function () {
+        $('#datetimepicker1').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker2').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
         $('#datetimepicker3').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker4').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker5').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker6').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker7').datetimepicker({
             format: 'LT'
         });
     });
