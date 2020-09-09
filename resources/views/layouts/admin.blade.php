@@ -42,6 +42,8 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 
 
+
+
 </head>
 <body class="hold-transition sidebar-mini sidebar-closed sidebar-collapse">
 <div class="wrapper">
@@ -340,5 +342,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 
 
+
 </body>
 </html>
+

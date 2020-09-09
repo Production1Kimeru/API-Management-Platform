@@ -122,51 +122,41 @@
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox1" value="Monday">
                                         <label for="weekdaysCheckbox1" class="custom-control-label">Monday</label>
-                                    </div>
-                                    
-                                </div>
-                                <div class="col-sm">
-                                    <div class="custom-control custom-checkbox">
-                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox2" value="Thuesday">
-                                        <label for="weekdaysCheckbox2" class="custom-control-label">Tuesday</label>
+
+                                        
+
                                     </div>
 
-                                </div>
-                                <div class="col-sm">
+                                    <!-- /.input group -->
+                                    <div class="custom-control custom-checkbox">
+                                        <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox2" value="Thuesday">
+                                        <label for="weekdaysCheckbox2" class="custom-control-label">Thuesday</label>
+                                    </div>
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox3" value="Wednesday">
                                         <label for="weekdaysCheckbox3" class="custom-control-label">Wednesday</label>
                                     </div>
-
-                                </div>
-                                <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox4" value="Thursday">
                                         <label for="weekdaysCheckbox4" class="custom-control-label">Thursday</label>
                                     </div>
-
                                 </div>
                                 <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox5" value="Friday">
                                         <label for="weekdaysCheckbox5" class="custom-control-label">Friday</label>
                                     </div>
-
-                                </div>
-                                <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox6" value="Saturday">
                                         <label for="weekdaysCheckbox6" class="custom-control-label">Saturday</label>
                                     </div>
-
-                                </div>
-                                <div class="col-sm">
                                     <div class="custom-control custom-checkbox">
                                         <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox7" value="Sunday">
                                         <label for="weekdaysCheckbox7" class="custom-control-label">Sunday</label>
                                     </div>
-
                                 </div>
+
+
                             </div>
                         </div>
                     </div>
