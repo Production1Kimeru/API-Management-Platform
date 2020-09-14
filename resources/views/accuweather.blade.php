@@ -392,7 +392,22 @@
                             <div class="input-group-prepend">
                                 <span class="input-group-text"><i class="fas fa-map-marker-alt"></i></span>
                             </div>
-                            <input type="text" class="form-control" placeholder="Location">
+                            <select class="form-control select2" placeholder="Location" style="width: 100%;">
+                                <option selected="selected"></option>
+                                <option>Antwerpen</option>
+                                <option>Gent</option>
+                                <option>Brugge</option>
+                                <option>Brussel</option>
+                                <option>Leuven</option>
+                                <option>Hasselt</option>
+                                <option>Bergen-op-zoom</option>
+                                <option>Luik</option>
+                                <option>Henegouwen</option>
+                                <option>Ieper</option>
+                                <option>St.-Vith</option>
+
+
+                            </select>
                         </div>
 
                         <div class="form-group">
