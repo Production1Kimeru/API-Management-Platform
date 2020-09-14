@@ -348,37 +348,72 @@ scratch. This page gets rid of all links and provides the needed markup only.
 
 <script type="text/javascript">
     $(function () {
-        $('#datetimepicker1').datetimepicker({
+        $('#datetimepicker11').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker2').datetimepicker({
+        $('#datetimepicker12').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker3').datetimepicker({
+        $('#datetimepicker21').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker4').datetimepicker({
+        $('#datetimepicker22').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker5').datetimepicker({
+        $('#datetimepicker31').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker6').datetimepicker({
+        $('#datetimepicker32').datetimepicker({
             format: 'LT'
         });
     });
     $(function () {
-        $('#datetimepicker7').datetimepicker({
+        $('#datetimepicker41').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker42').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker51').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker52').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker61').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker62').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker71').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker72').datetimepicker({
             format: 'LT'
         });
     });
