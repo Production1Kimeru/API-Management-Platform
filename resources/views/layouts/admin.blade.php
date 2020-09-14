@@ -230,17 +230,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
     <footer class="main-footer">
         <!-- To the right -->
         <div class="float-right d-none d-sm-inline">
-            <a class="" href="{{ route('logout') }}"
-               onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                {{ __('Logout') }}
-            </a>
-
-            <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
-                @csrf
-            </form>        </div>
+            <a href="https://kimeru.be">Kimeru.be</a>
+        </div>
         <!-- Default to the left -->
-        <strong>Copyright &copy; 2020 <a href="https://kimeru.be">Kimeru.be</a></strong> All rights reserved.
+        <strong>Copyright &copy; 2020 </strong> All rights reserved.
     </footer>
 </div>
 <!-- ./wrapper -->
