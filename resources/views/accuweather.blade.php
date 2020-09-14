@@ -191,17 +191,17 @@
                                 <div class="col-sm">
                                     <div class="form-group">
                                         <div class="custom-control custom-checkbox">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox11" value="MondayStart">
-                                            <label for="weekdaysCheckbox11" class="custom-control-label">Monday</label>
+                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox31" value="WednesdayStart">
+                                            <label for="weekdaysCheckbox31" class="custom-control-label">Wednesday</label>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker11" data-target-input="nearest">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker11" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker11" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker31" data-target-input="nearest">
+                                            <input type="text" placeholder="Start Time" class="form-control datetimepicker-input" data-target="#datetimepicker31" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker31" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -211,46 +211,9 @@
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker12" data-target-input="nearest">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox12" value="MondayEnd">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker12" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker12" data-toggle="datetimepicker">
-                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                            <div class="row">
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="custom-control custom-checkbox">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox11" value="MondayStart">
-                                            <label for="weekdaysCheckbox11" class="custom-control-label">Monday</label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker11" data-target-input="nearest">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker11" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker11" data-toggle="datetimepicker">
-                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker12" data-target-input="nearest">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox12" value="MondayEnd">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker12" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker12" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker32" data-target-input="nearest">
+                                            <input type="text" placeholder="End Time" class="form-control datetimepicker-input" data-target="#datetimepicker32" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker32" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -263,17 +226,17 @@
                                 <div class="col-sm">
                                     <div class="form-group">
                                         <div class="custom-control custom-checkbox">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox11" value="MondayStart">
-                                            <label for="weekdaysCheckbox11" class="custom-control-label">Monday</label>
+                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox41" value="ThursdayStart">
+                                            <label for="weekdaysCheckbox41" class="custom-control-label">Thursday</label>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker11" data-target-input="nearest">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker11" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker11" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker41" data-target-input="nearest">
+                                            <input type="text" placeholder="Start Time" class="form-control datetimepicker-input" data-target="#datetimepicker41" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker41" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -283,46 +246,9 @@
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker12" data-target-input="nearest">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox12" value="MondayEnd">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker12" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker12" data-toggle="datetimepicker">
-                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                            </div>
-                            <div class="row">
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="custom-control custom-checkbox">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox11" value="MondayStart">
-                                            <label for="weekdaysCheckbox11" class="custom-control-label">Monday</label>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker11" data-target-input="nearest">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker11" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker11" data-toggle="datetimepicker">
-                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                </div>
-
-                                <div class="col-sm">
-                                    <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker12" data-target-input="nearest">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox12" value="MondayEnd">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker12" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker12" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker42" data-target-input="nearest">
+                                            <input type="text" placeholder="End Time" class="form-control datetimepicker-input" data-target="#datetimepicker42" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker42" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -335,17 +261,17 @@
                                 <div class="col-sm">
                                     <div class="form-group">
                                         <div class="custom-control custom-checkbox">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox11" value="MondayStart">
-                                            <label for="weekdaysCheckbox11" class="custom-control-label">Monday</label>
+                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox51" value="FridayStart">
+                                            <label for="weekdaysCheckbox51" class="custom-control-label">Friday</label>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker11" data-target-input="nearest">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker11" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker11" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker51" data-target-input="nearest">
+                                            <input type="text" placeholder="Start Time" class="form-control datetimepicker-input" data-target="#datetimepicker51" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker51" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -355,10 +281,9 @@
 
                                 <div class="col-sm">
                                     <div class="form-group">
-                                        <div class="input-group date" id="datetimepicker12" data-target-input="nearest">
-                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox12" value="MondayEnd">
-                                            <input type="text" class="form-control datetimepicker-input" data-target="#datetimepicker12" style="height: 30px;"/>
-                                            <div class="input-group-append" data-target="#datetimepicker12" data-toggle="datetimepicker">
+                                        <div class="input-group date" id="datetimepicker52" data-target-input="nearest">
+                                            <input type="text" placeholder="End Time" class="form-control datetimepicker-input" data-target="#datetimepicker52" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker52" data-toggle="datetimepicker">
                                                 <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
                                             </div>
                                         </div>
@@ -367,6 +292,77 @@
 
 
                             </div>
+                            <div class="row">
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="custom-control custom-checkbox">
+                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox61" value="SaturdayStart">
+                                            <label for="weekdaysCheckbox61" class="custom-control-label">Saturday</label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="input-group date" id="datetimepicker61" data-target-input="nearest">
+                                            <input type="text" placeholder="Start Time" class="form-control datetimepicker-input" data-target="#datetimepicker61" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker61" data-toggle="datetimepicker">
+                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="input-group date" id="datetimepicker22" data-target-input="nearest">
+                                            <input type="text" placeholder="End Time" class="form-control datetimepicker-input" data-target="#datetimepicker22" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker22" data-toggle="datetimepicker">
+                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="custom-control custom-checkbox">
+                                            <input class="custom-control-input" type="checkbox" id="weekdaysCheckbox71" value="SundayStart">
+                                            <label for="weekdaysCheckbox71" class="custom-control-label">Sunday</label>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="input-group date" id="datetimepicker71" data-target-input="nearest">
+                                            <input type="text" placeholder="Start Time" class="form-control datetimepicker-input" data-target="#datetimepicker71" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker71" data-toggle="datetimepicker">
+                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-sm">
+                                    <div class="form-group">
+                                        <div class="input-group date" id="datetimepicker72" data-target-input="nearest">
+                                            <input type="text" placeholder="End Time" class="form-control datetimepicker-input" data-target="#datetimepicker72" style="height: 30px;"/>
+                                            <div class="input-group-append" data-target="#datetimepicker22" data-toggle="datetimepicker">
+                                                <div class="input-group-text" style="height: 30px;" ><i class="far fa-clock"></i></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                            </div>
+
 
                         </div>
                     </div>
