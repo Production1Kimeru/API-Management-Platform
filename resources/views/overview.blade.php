@@ -150,7 +150,7 @@
                     <div class="modal-body">
                         <div class="form-group">
                             <label>Select API</label>
-                            <select multiple class="form-control">
+                            <select multiple class="form-control" style="height: 50vh;">
                                 <option>Accu Weather</option>
                                 <option>Rails</option>
                                 <option>De Tijd</option>
