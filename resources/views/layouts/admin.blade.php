@@ -417,6 +417,76 @@ scratch. This page gets rid of all links and provides the needed markup only.
             format: 'LT'
         });
     });
+    $(function () {
+        $('#datetimepicker81').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker82').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker91').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker92').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker101').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker102').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker111').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker112').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker121').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker122').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker131').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker132').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker141').datetimepicker({
+            format: 'LT'
+        });
+    });
+    $(function () {
+        $('#datetimepicker142').datetimepicker({
+            format: 'LT'
+        });
+    });
 </script>
 
 
