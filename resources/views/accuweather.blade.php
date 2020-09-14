@@ -839,7 +839,7 @@
                                     <td>16-01-2018</td>
                                     <td>5</td>
                                     <td>vrij,zat,zon</td>
-                                    <td><span class="badge bg-warning">Something wrong</span></td>
+                                    <td><span class="badge bg-warning">Error</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
@@ -883,7 +883,7 @@
                                     <td>23-02-2017</td>
                                     <td>4</td>
                                     <td>di,do,zon</td>
-                                    <td><span class="badge bg-warning">Something wrong</span></td>
+                                    <td><span class="badge bg-warning">Error</span></td>
                                     <td>
                                         <a href="#"><i class="fas fa-pause"></i></a>
                                         <a href="#"><i class="fas fa-book ml-2"></i></a>
